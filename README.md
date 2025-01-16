@@ -5,7 +5,7 @@
 This project is designed to recognize American Sign Language (ASL) alphabet gestures in real-time using computer vision and machine learning. By utilizing OpenCV for webcam integration, MediaPipe for hand tracking, and classifiers like Support Vector Machine (SVM) and Random Forest, the model can accurately identify ASL hand gestures and convert them into corresponding alphabetic characters.
 
 ## **Project Demo** 
-!https://github.com/user-attachments/assets/535e404e-2af0-4cbd-bb65-56b1e49208f2
+https://github.com/user-attachments/assets/535e404e-2af0-4cbd-bb65-56b1e49208f2
 ## Features
 
 - **Real-time ASL Alphabet Detection:** Utilizes OpenCV and MediaPipe for live hand gesture detection via webcam.
