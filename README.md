@@ -7,7 +7,7 @@ This project is designed to recognize American Sign Language (ASL) alphabet gest
 ## **Project Demo** 
 ![Gui](https://github.com/user-attachments/assets/de77af65-270f-4d27-bc9c-6bf0a05e2a97)
 
-
+https://github.com/user-attachments/assets/535e404e-2af0-4cbd-bb65-56b1e49208f2
 ## Features
 
 - **Real-time ASL Alphabet Detection:** Utilizes OpenCV and MediaPipe for live hand gesture detection via webcam.
